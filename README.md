@@ -25,7 +25,7 @@ Make sure to have these dependencies installed before running the project.
 
 ## Code
 
-The project code and datasets can be found in the 'Final Project and Code' folder. This folder contains the essential scripts and data required to reproduce and extend our analysis.
+The project code and datasets can be found inside folder. This folder contains the essential scripts and data required to reproduce and extend our analysis.
 
 
 ## Contact
